@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Sehty-app/static/css/main.d0328333.css",
-    "main.js": "/Sehty-app/static/js/main.1c2de228.js",
+    "main.js": "/Sehty-app/static/js/main.9d3a064e.js",
     "static/js/453.34f1a265.chunk.js": "/Sehty-app/static/js/453.34f1a265.chunk.js",
     "index.html": "/Sehty-app/index.html",
     "main.d0328333.css.map": "/Sehty-app/static/css/main.d0328333.css.map",
-    "main.1c2de228.js.map": "/Sehty-app/static/js/main.1c2de228.js.map",
+    "main.9d3a064e.js.map": "/Sehty-app/static/js/main.9d3a064e.js.map",
     "453.34f1a265.chunk.js.map": "/Sehty-app/static/js/453.34f1a265.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0328333.css",
-    "static/js/main.1c2de228.js"
+    "static/js/main.9d3a064e.js"
   ]
 }
