@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ahmedvbdelaziz/Sehty-app.git/static/css/main.d0328333.css",
-    "main.js": "/ahmedvbdelaziz/Sehty-app.git/static/js/main.ec491332.js",
-    "static/js/453.34f1a265.chunk.js": "/ahmedvbdelaziz/Sehty-app.git/static/js/453.34f1a265.chunk.js",
-    "index.html": "/ahmedvbdelaziz/Sehty-app.git/index.html",
-    "main.d0328333.css.map": "/ahmedvbdelaziz/Sehty-app.git/static/css/main.d0328333.css.map",
-    "main.ec491332.js.map": "/ahmedvbdelaziz/Sehty-app.git/static/js/main.ec491332.js.map",
-    "453.34f1a265.chunk.js.map": "/ahmedvbdelaziz/Sehty-app.git/static/js/453.34f1a265.chunk.js.map"
+    "main.css": "/ahmedvbdelaziz.github.io/Sehty-app/static/css/main.d0328333.css",
+    "main.js": "/ahmedvbdelaziz.github.io/Sehty-app/static/js/main.3cf78417.js",
+    "static/js/453.34f1a265.chunk.js": "/ahmedvbdelaziz.github.io/Sehty-app/static/js/453.34f1a265.chunk.js",
+    "index.html": "/ahmedvbdelaziz.github.io/Sehty-app/index.html",
+    "main.d0328333.css.map": "/ahmedvbdelaziz.github.io/Sehty-app/static/css/main.d0328333.css.map",
+    "main.3cf78417.js.map": "/ahmedvbdelaziz.github.io/Sehty-app/static/js/main.3cf78417.js.map",
+    "453.34f1a265.chunk.js.map": "/ahmedvbdelaziz.github.io/Sehty-app/static/js/453.34f1a265.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0328333.css",
-    "static/js/main.ec491332.js"
+    "static/js/main.3cf78417.js"
   ]
 }
